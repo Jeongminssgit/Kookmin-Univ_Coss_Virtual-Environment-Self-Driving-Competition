@@ -5,4 +5,3 @@ Team name : Team_model S
 Project Team Members : 18 윤다니엘 19 김동영 19 정준호 20 박정민
 Results: 3rd place
 Use sensors : Lidar2D, Camera, IMU
----------------------------------------------------------------
