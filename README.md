@@ -1,6 +1,7 @@
 ![image](https://github.com/Jeongminssgit/Kookmin-Univ_Coss_Virtual-Environment-Self-Driving-Competition/assets/151872991/90843992-d079-44ee-af3b-787232852457)
 
 [2024.01.02 ~ 2024.02.07]
+
 Results: 3rd place
 
 1. Team name : Team_model S
